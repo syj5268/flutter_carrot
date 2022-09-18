@@ -1,4 +1,4 @@
-import 'dart:html';
+/*import 'dart:html';*/
 
 import 'package:flutter/material.dart';
 
@@ -79,7 +79,7 @@ class MyApp extends StatelessWidget {
   final List<ListData> datas= [
       ListData("assets/images/image1.png","jBL 사운드바","역삼동 * 끌올 1분 전","145000원","0"),
       ListData("assets/images/image2.png","샤넬 캐비어 블랙 클래식 폰홀더","강남구 논현동 * 57초 전","15000원","3"),
-      ListData("assets/images/image3.png","(삼성역)에어팟 3세대 미개봉 제품 삽니다","삼성동 * 끌올 2분 전","1800000원","20"),
+      ListData("assets/images/image3.png","(삼성역)에어팟 3세대 미개봉 제품 삽니다","삼성동 * 끌올 2분 전","18만원","20"),
       ListData("assets/images/image4.png","자라블라우스66사이즈","역삼2동 * 끌올 50초 전","2980000원","6"),
       ListData("assets/images/image5.png","버거스올마이티 강남역점입니다","역삼동 * 지역광고","0원","1"),
     ];
